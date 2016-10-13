@@ -1,0 +1,22 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robgmerrill/node-notes.git"
+  },
+  "author": "Rob Merrill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robgmerrill/node-notes/issues"
+  },
+  "homepage": "https://github.com/robgmerrill/node-notes#readme",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  }
+}
