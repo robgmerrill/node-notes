@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/robgmerrill/node-notes#readme",
   "dependencies": {
-    "lodash": "^4.16.4"
+    "lodash": "^4.16.4",
+    "yargs": "^4.7.1"
   }
 }
